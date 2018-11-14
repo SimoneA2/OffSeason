@@ -6,4 +6,11 @@ https://guides.github.com/activities/hello-world/
 
 Some changes to create a pull request.
 
+
 Simone Ashford
+
+
+jakub kedzior
+Amelia Smallfield
+
+
